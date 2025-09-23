@@ -11,10 +11,10 @@
 
 ### **Familiar With:**
 - VLSI: Physical Design
+- Radar Signal Processing
 - PCB Design
 - Front-end Web Development
 - Networking
-- Radar Signal Processing 
 
 
 ### **Tools and Technologies:**
