@@ -1,5 +1,5 @@
 # **Hello!**
-
+A recent Computer Engineering graduate with a focus on digital logic systems, particularly in VLSI design and FPGA development.
 
 ## **Expertise & Skills:**
 - **VLSI (RTL Design, Verification & Synthesis)**
