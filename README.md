@@ -1,6 +1,11 @@
 # **Hello!**
 
 
+### **Projects:**
+#### [FPGA-based Stepped Frequency Continuous-Wave(SFCW) Radar]
+#### [16-bit CPU Architecture implementation on FPGA]
+#### [Multi-sensor Data Acquisition on FPGA and Arduino]
+
 
 ### **Expertise & Skills:**
 - **VLSI (RTL Design, Verification & Synthesis)**
