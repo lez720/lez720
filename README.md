@@ -3,14 +3,14 @@
 
 
 ### **Expertise & Skills:**
-- **VLSI: RTL Design & Synthesis**
+- **VLSI (RTL Design, Verification & Synthesis)**
 - **FPGA Development**
 - **Computer Architecture**
 - **Digital Signal Processing**
 
 
 ### **Familiar With:**
-- VLSI: Physical Design
+- VLSI (Physical Design)
 - Radar Signal Processing
 - PCB Design
 - Front-end Web Development
