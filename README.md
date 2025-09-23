@@ -13,7 +13,7 @@ Familiar With:
 Tools and Technologies:
 - HDLs: Verilog, VHDL, SystemVerilog
 - EDA Tools: Modelsim, Intel Quartus Prime II, Yosys, OpenROAD
-- MCicrocontrollers: Arduino, ESP32, Raspberry Pi
+- Microcontrollers: Arduino, ESP32, Raspberry Pi
 - Scripting: Tcl/tk, Perl
 - Languages: C++, Python, Java, 8086 Assembly
 - IDEs & Editors: VSCode, Neovim, ArduinoIDE, PlatformIO
