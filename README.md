@@ -2,14 +2,15 @@
 
 
 
-## **Expertise and Skills:**
-- **RTL to GDS Design Flow**
+## **Expertise & Skills:**
+- **VLSI: RTL Design & Synthesis**
 - **FPGA Development**
 - **Computer Architecture**
 - **Digital Signal Processing**
 
 
 ## **Familiar With:**
+- VLSI: Physical Design
 - PCB Design
 - Front-end Web Development
 - Networking
