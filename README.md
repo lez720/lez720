@@ -1,7 +1,7 @@
 # **Hello!**
 
 
-### **Expertise & Skills:**
+## **Expertise & Skills:**
 - **VLSI (RTL Design, Verification & Synthesis)**
 - **FPGA Development**
 - **Computer Architecture**
