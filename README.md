@@ -16,13 +16,13 @@
 - Networking
   
 
-### **Projects:**
+## **Projects:**
 #### [FPGA-based Stepped Frequency Continuous-Wave(SFCW) Radar]
 #### [16-bit CPU Architecture implementation on FPGA]
 #### [Multi-sensor Data Acquisition on FPGA and Arduino]
 
 
-### **Tools and Technologies:**
+## **Tools and Technologies:**
 - **HDLs**: Verilog, VHDL, SystemVerilog
 - **EDA Tools**: Modelsim, Intel Quartus Prime II, Yosys, OpenROAD
 - **Microcontrollers**: Arduino, ESP32, Raspberry Pi
