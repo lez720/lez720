@@ -2,14 +2,14 @@
 
 
 
-## **Expertise & Skills:**
+### **Expertise & Skills:**
 - **VLSI: RTL Design & Synthesis**
 - **FPGA Development**
 - **Computer Architecture**
 - **Digital Signal Processing**
 
 
-## **Familiar With:**
+### **Familiar With:**
 - VLSI: Physical Design
 - PCB Design
 - Front-end Web Development
@@ -17,7 +17,7 @@
 - Radar Signal Processing 
 
 
-## **Tools and Technologies:**
+### **Tools and Technologies:**
 - **HDLs**: Verilog, VHDL, SystemVerilog
 - **EDA Tools**: Modelsim, Intel Quartus Prime II, Yosys, OpenROAD
 - **Microcontrollers**: Arduino, ESP32, Raspberry Pi
