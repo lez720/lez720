@@ -9,7 +9,7 @@
 - **Digital Signal Processing**
 
 
-#### **Familiar With:**
+### **Familiar With:**
 - VLSI (Physical Design)
 - Radar Signal Processing
 - PCB Design
