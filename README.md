@@ -2,7 +2,7 @@ Hello!
 
 
 
-Skills
+Expertise and Skills: 
 - RTL to GDS Design Flow | FPGA Development | Computer Architecture | Digital Signal Processing
 - HDLs: Verilog, VHDL, SystemVerilog
 - EDAs: Modelsim, Intel Quartus Prime II, Yosys, OpenROAD
