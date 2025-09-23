@@ -5,8 +5,10 @@ Hello!
 Expertise and Skills: 
 - RTL to GDS Design Flow | FPGA Development | Computer Architecture | Digital Signal Processing
 
+
 Familiar With:
 - PCB Design | Front-end Web Development | Networking | Radar Design
+
 
 Tools and Technologies:
 - HDLs: Verilog, VHDL, SystemVerilog
