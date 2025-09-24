@@ -27,10 +27,10 @@ A recent Computer Engineering graduate specializing in RTL design, with a focus 
 ## **Tools and Technologies:**
 - **HDLs**: Verilog, VHDL, SystemVerilog
 - **EDA Tools**: Modelsim, Intel Quartus Prime II, Yosys, OpenROAD
-- **Microcontrollers**: Arduino, ESP32, Raspberry Pi
 - **Scripting**: Tcl/tk, Perl
 - **Languages**: C++, Python, Java, x86 Assembly
 - **IDEs & Editors**: VSCode, Neovim, ArduinoIDE, PlatformIO
+- **Microcontrollers**: Arduino, ESP32, Raspberry Pi
 - **PCB CADs**: Altium Designer, EasyEDA
 - **Other Tools**: Git, Linux
   
