@@ -13,7 +13,7 @@ A recent Computer Engineering graduate specializing in RTL design, with a focus 
 - Radar Signal Processing
 - PCB Design
 - Front-end Web Development
-- Networking
+- Network Design
   
 
 ## **Projects:**
