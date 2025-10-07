@@ -2,14 +2,14 @@
 A recent Computer Engineering graduate specializing in RTL design, with a focus on VLSI and FPGA development, and a strong interest in computer architecture and digital signal processing.
 
 ## **Expertise & Skills:**
-- **VLSI (RTL Design, Verification & Synthesis)**
+- **Front-end VLSI Design**
 - **FPGA Development**
 - **Computer Architecture**
 - **Digital Signal Processing**
 
 
 ### **Familiar With:**
-- VLSI (Physical Design)
+- Back-end VLSI Design
 - Radar Signal Processing
 - PCB Design
 - Front-end Web Development
