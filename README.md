@@ -6,14 +6,6 @@ A recent Computer Engineering graduate specializing in RTL design, with a focus 
 - **FPGA Development**
 - **Computer Architecture**
 - **Digital Signal Processing**
-
-
-### **Familiar With:**
-- Back-end VLSI Design
-- Radar Signal Processing
-- PCB Design
-- Front-end Web Development
-- Network Design
   
 
 ## **Projects:**
