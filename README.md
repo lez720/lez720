@@ -9,11 +9,11 @@ A recent Computer Engineering graduate specializing in RTL design, with a focus 
   
 
 ## **Projects:**
-#### [FPGA-based Stepped Frequency Continuous-Wave(SFCW) Radar]
-#### [16-bit CPU Architecture implementation on FPGA]
-#### [Multi-sensor Data Acquisition on FPGA and Arduino]
-#### [Wireless Cyclist's Rear-end Collision Warning System utilizing Continuous-Wave Radar and Ultrasonic Sensors on FPGA and ESP32 Boards]
-#### [FPGA-based Flood Prediction with Real-time Monitoring System using Multiple Linear Regression Algorithm]
+#### RISC-V RV32I Architecture (WIP)
+#### FPGA-based Stepped Frequency Continuous-Wave(SFCW) Radar
+#### 16-bit CPU Architecture implementation on FPGA
+#### Multi-sensor Data Acquisition on FPGA and Arduino
+
 
 
 ## **Tools and Technologies:**
