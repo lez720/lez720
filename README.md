@@ -1,5 +1,5 @@
 # **Hello!**
-A recent Computer Engineering graduate specializing in RTL design, with a focus on VLSI and FPGA development, and a strong interest in computer architecture and digital signal processing.
+A recent Computer Engineering graduate passionate in digital logic, electronics and etc.
 
 ## **Expertise & Skills:**
 - **Front-end VLSI Design**
